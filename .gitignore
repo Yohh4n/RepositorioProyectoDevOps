@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos sensibles
+.env
+*.pem
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
